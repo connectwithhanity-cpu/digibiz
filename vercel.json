@@ -1,5 +1,5 @@
 {
   "version": 2,
-  "builds": [{"src": "app_polish.py", "use": "@vercel/python"}],
-  "routes": [{"src": "/(.*)", "dest": "app_polish.py"}]
+  "builds": [{"src": "app_header.py", "use": "@vercel/python"}],
+  "routes": [{"src": "/(.*)", "dest": "app_header.py"}]
 }
