@@ -1,27 +1,11 @@
-# DIGIBIZ Python MVP
+# BUZENT
 
-Verified business-growth talent marketplace MVP built in Python/Flask.
+BUZENT is a worldwide business × professional opportunity network connecting business owners with marketers, creators, developers, sales professionals, influencers, CAs, consultants, agencies, and other growth specialists.
 
-## Included
-- Business owner registration/login
-- Professional & agency registration/login
-- Admin login
-- Digital marketing, creative, web, promoter, influencer, CA/professional-service and agency roles
-- Business requirements
-- Expert matching
-- Contact requests
-- Assessments and admin verification
-- DIGIBIZ scoring and verification statuses
+## Production branding
 
-## Local run
-```bash
-python -m venv .venv
-pip install -r requirements.txt
-python app.py
-```
-Open `http://127.0.0.1:5000/setup` once, then use the app.
+The approved BUZENT logo asset is stored at `static/buzent-logo.webp` and is used directly in the website header and central connection hub so the interface matches the approved brand reference rather than a recreated SVG approximation.
 
-Prototype admin: `admin@digibiz.in` / `admin123`
-
-## Vercel
-This repository includes `vercel.json`. The current SQLite `/tmp` database is suitable only for a prototype on serverless hosting. Replace it with managed PostgreSQL before real public use.
+Official contact:
+- Email: buzentofficial@gmail.com
+- Instagram: @buzentofficial
