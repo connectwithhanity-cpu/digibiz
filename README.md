@@ -9,3 +9,5 @@ The approved BUZENT logo asset is stored at `static/buzent-logo.webp` and is use
 Official contact:
 - Email: buzentofficial@gmail.com
 - Instagram: @buzentofficial
+
+Deployment refresh: restored BUZENT production build.
